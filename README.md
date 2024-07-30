@@ -1,2 +1,2 @@
-# object-oreinted-programming
-OOP (object-oreinted-programming) keywords, principles, examples
+# object-oriented-programming
+OOP (object-oriented-programming) keywords, principles, examples
